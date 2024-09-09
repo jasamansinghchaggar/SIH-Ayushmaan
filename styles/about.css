@@ -1,0 +1,15 @@
+.navbar .navLinks .aboutLink a{
+    color: #969696;
+}
+
+main {
+    padding: 20px;
+
+    h1 {
+        padding: 10px 0;
+    }
+
+    h2 {
+        font-weight: 500;
+    }
+}
